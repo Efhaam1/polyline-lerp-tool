@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Polyline LERP Tool</title>
+  <style>
+    body { margin: 0; background: #111; color: white; font-family: Arial; }
+    canvas { display: block; background: #222; }
+    .info {
+      position: fixed; top: 10px; left: 10px;
+      background: rgba(0,0,0,0.6); padding: 10px; border-radius: 8px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+<div class="info">
+  Left Click: Draw Polyline A<br>
+  Press SPACE: Switch to Polyline B<br>
+  Press S: Start LERP Animation
+</div>
+<canvas id="canvas"></canvas>
+<script src="script.js"></script>
+</body>
+</html>
