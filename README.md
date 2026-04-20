@@ -1,3 +1,2 @@
-npm install
-npm run
-<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/a4f8fb60-9a97-49a5-a1c7-f6a787e78b70" />
+
+<img width="792" height="370" alt="image" src="https://github.com/user-attachments/assets/b02f9451-b8b2-4c1c-9667-6ba8550541ab" />
