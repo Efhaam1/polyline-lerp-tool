@@ -1,2 +1,2 @@
-
+The Polyline LERP Tool is an interactive 2D drawing application built using HTML5 Canvas. It allows users to draw two polylines (Shape A and Shape B) and smoothly interpolate between them using Linear Interpolation (LERP). By maintaining an equal number of vertices in both shapes, the tool demonstrates how intermediate shapes are generated using the formula P = (1 − t)A + tB, providing a visual understanding of shape morphing and tweening in computer graphics.
 <img width="792" height="370" alt="image" src="https://github.com/user-attachments/assets/b02f9451-b8b2-4c1c-9667-6ba8550541ab" />
